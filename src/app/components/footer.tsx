@@ -81,7 +81,7 @@ export default function Footer(){
      </div>
              </div>
         </div>
-        <p className="text-white text-center text-sm pb-4"><FontAwesomeIcon icon={faCopyright}className="text-lg mr-3  " ></FontAwesomeIcon>Copyright Rimel 2022. All right reserved</p>
+        <p className="text-white text-center text-sm pb-4"><FontAwesomeIcon icon={faCopyright}className="text-lg mr-3  " ></FontAwesomeIcon>Copyright shery 2025. All right reserved</p>
 
 
         </main>
